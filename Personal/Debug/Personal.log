@@ -1,0 +1,8 @@
+﻿  Ghost Home.c
+C:\Users\user\Documents\Visual Studio 2019\Code Snippets\Visual C\Personal\Personal\Ghost Home.c(130,15): warning C4013: '_getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Documents\Visual Studio 2019\Code Snippets\Visual C\Personal\Personal\Ghost Home.c(305,17): warning C4013: '_kbhit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Documents\Visual Studio 2019\Code Snippets\Visual C\Personal\Personal\Ghost Home.c(306,22): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Documents\Visual Studio 2019\Code Snippets\Visual C\Personal\Personal\Ghost Home.c(957,14): warning C4098: 'job_': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\user\Documents\Visual Studio 2019\Code Snippets\Visual C\Personal\Personal\Ghost Home.c(1148,16): warning C4013: '_beginthreadex'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Documents\Visual Studio 2019\Code Snippets\Visual C\Personal\Personal\Ghost Home.c(219): warning C4715: 'myrand': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Personal.vcxproj -> C:\Users\user\Documents\Visual Studio 2019\Code Snippets\Visual C\Personal\Debug\Personal.exe
